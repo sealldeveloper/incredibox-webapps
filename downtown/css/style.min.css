@@ -1,5 +1,5 @@
 :root{
-    --colBck:#121212;
+    --colBck:#ffffff;
     --col0:#919191;
     --col1:#5f5f5f;
     --col2:#4b4b4b;
@@ -99,7 +99,7 @@ body.fluid{
     display:block
 }
 body.black{
-    background-color:#000!important
+    background-color:#ffffff!important
 }
 body.darkback{
     background-color:var(--colBck)!important
