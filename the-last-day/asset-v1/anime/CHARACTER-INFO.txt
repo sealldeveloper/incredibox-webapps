@@ -1,0 +1,142 @@
+BEAT1 - 
+Thomas
+
+Design: Taken from an official V4 early image
+Rebuilt design: The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+BEAT2 - 
+Disc Jockey
+
+Design: PersonFromBrazil and Artemiy Kopych
+Animation: Artemiy Kopych
+Sound: PersonFromBrazil
+----------------------------------
+BEAT3 - 
+Professional Swimmer
+
+Design: PersonFromBrazil and The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+BEAT4 - 
+Beach Enjoyer
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+BEAT5 - 
+Solar Flare
+
+Design: PersonFromBrazil and The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+EFFECT1 - 
+Scuba Diver
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+EFFECT2 - 
+Red Rose
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+EFFECT3 - 
+Marine Captain
+
+Design: Taken from an official V4 early image
+Rebuilt design: The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+EFFECT4 - 
+Guy-Manuel
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+EFFECT5 - 
+Sauna Guy
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+MELODY1 - 
+Yacht Tourist
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+MELODY2 - 
+Ocean Sailor
+
+Design: PersonFromBrazil and The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+MELODY3 - 
+Club Artist
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+MELODY4 - 
+Remixer
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+MELODY5 - 
+Laid-back
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+VOICE1 - 
+Golden Record
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+VOICE2 - 
+Summer Vacation
+
+Design: PersonFromBrazil
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+VOICE3 - 
+Fancy Pants
+
+Design: PersonFromBrazil and The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+VOICE4 - 
+Party Stars
+
+Design: PersonFromBrazil and The Thing
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
+VOICE5 - 
+The Hippie
+
+Design: PersonFromBrazil and Artemiy Kopych
+Animation: PersonFromBrazil
+Sound: PersonFromBrazil
+----------------------------------
