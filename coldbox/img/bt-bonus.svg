@@ -1,0 +1,73 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" preserveAspectRatio="none" x="0px" y="0px" width="210px" height="630px" viewBox="0 0 210 630">
+<defs>
+<image id="demo_mockup_aasl_jpg" x="0" y="0" width="627" height="672" xlink:href="./images/demo_mockup_aasl_jpg.jpg"/>
+
+<g id="Layer0_0_FILL">
+<path fill="#FFFFFF" stroke="none" d="
+M 52.05 88.45
+L 17.85 88.45 17.85 112 29.6 112 35 124.2 40.4 112 52.05 112 52.05 88.45
+M 27.7 95.6
+L 33.7 91.45
+Q 34.25 91.1 35 91.1 35.7 91.1 36.25 91.45
+L 42.25 95.6 42.75 96.1 42.95 96.35 43 96.85 43 103.2
+Q 43 104 42.25 104.6
+L 36.3 109.35
+Q 35.8 109.75 35 109.95 34.2 109.75 33.65 109.35
+L 27.7 104.6
+Q 26.95 104 27 103.2
+L 27 96.85
+Q 27 96.35 27.2 96.1
+L 27.7 95.6
+M 44.4 29.25
+L 44.4 23.9
+Q 44.4 20.45 41.7 17.75 39.4 15.45 36.45 14.9
+L 34.9 14.75
+Q 31.1 14.75 28.1 17.65 25.35 20.55 25.35 23.9
+L 25.35 29.25 22.75 29.25
+Q 21.9 29.25 21.1 29.9 20.5 30.6 20.5 31.5
+L 20.5 48.8
+Q 20.5 49.85 21.1 50.5 21.85 51.1 22.75 51.1
+L 47.2 51.1
+Q 48.2 51.1 48.8 50.5 49.5 49.8 49.5 48.8
+L 49.5 31.65
+Q 49.5 30.7 48.8 29.9 48.15 29.25 47.2 29.25
+L 44.4 29.25
+M 40.9 24
+L 40.9 29.4 28.85 29.4 28.85 24
+Q 28.85 22.05 30.5 20.3 32.2 18.4 34.9 18.4 35.7 18.4 36.45 18.55 38.05 19 39.25 20.3 40.9 22.05 40.9 24
+M 19.45 180.35
+L 27.45 180.35 27.45 169.75 19.45 169.75 19.45 180.35
+M 37.2 169.75
+L 29.5 169.75 29.5 180.35 37.2 180.35 37.2 169.75 Z"/>
+</g>
+
+<path id="Layer0_0_1_STROKES" stroke="#FFFFFF" stroke-width="4" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 15.25 165.6
+L 45.9 165.6 45.9 170.75 52.65 170.75 52.65 179.35 45.9 179.35 45.9 184.5 15.25 184.5 15.25 165.6 Z
+M 45.9 179.35
+L 45.9 170.75"/>
+
+<path id="Layer0_0_2_STROKES" stroke="#FFFFFF" stroke-width="3" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 29.6 112
+L 17.85 112 17.85 88.45 52.05 88.45 52.05 112 40.4 112"/>
+
+<path id="Layer0_0_3_STROKES" stroke="#FFFFFF" stroke-width="2" stroke-linejoin="round" stroke-linecap="round" fill="none" d="
+M 40.4 112
+L 35 124.2 29.6 112"/>
+</defs>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#Layer0_0_FILL"/>
+
+<use xlink:href="#Layer0_0_1_STROKES"/>
+
+<use xlink:href="#Layer0_0_2_STROKES"/>
+
+<use xlink:href="#Layer0_0_3_STROKES"/>
+</g>
+
+<g transform="matrix( 1, 0, 0, 1, 0,0) ">
+<use xlink:href="#demo_mockup_aasl_jpg"/>
+</g>
+</svg>
