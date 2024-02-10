@@ -158,14 +158,11 @@
                         </svg></div>
                     <div class='hitzone'></div>
                 </div>
-                <div id='home-bt-list' class='bt bt-haut hoverLocked'>
+                <div id='home-bt-list' class='bt bt-haut'>
                     <div class='bck'><svg class='icn-svg'>
                             <use xlink:href='#ic-mixlist'></use>
                         </svg></div>
                     <div class='txt'>Mixlist</div>
-                    <div class='ic-locked'><svg class='icn-svg'>
-                            <use xlink:href='#ic-lock'></use>
-                        </svg></div>
                     <div class='hitzone'></div>
                     <div class='notif'></div>
                 </div>
@@ -194,24 +191,6 @@
                 <div class='scale'>
                     <div id='poplist'>
                         <div class='tabbox'>
-                            <div class='tab icon' id='tab-latest'>
-                                <div class='icon'><svg class='icn-svg'>
-                                        <use xlink:href='#ic-live-mini'></use>
-                                    </svg></div>
-                                <div class='txt'>Latest</div>
-                            </div>
-                            <div class='tab icon' id='tab-top50'>
-                                <div class='icon'><svg class='icn-svg'>
-                                        <use xlink:href='#ic-trophy-mini'></use>
-                                    </svg></div>
-                                <div class='txt'>Top 50</div>
-                            </div>
-                            <div class='tab icon' id='tab-search'>
-                                <div class='icon'><svg class='icn-svg'>
-                                        <use xlink:href='#ic-search-mini'></use>
-                                    </svg></div>
-                                <div class='txt'>Search</div>
-                            </div>
                             <div class='tab icon' id='tab-mixlist'>
                                 <div class='icon'><svg class='icn-svg'>
                                         <use xlink:href='#ic-mixlist-mini'></use>
@@ -227,102 +206,6 @@
                                 <div class='spinner-box spin'><svg class='icn-svg col-version'>
                                         <use xlink:href='#ic-loader'></use>
                                     </svg></div>
-                            </div>
-                            <div class='scroll filter' id='list-myfav'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll' id='list-latest'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll filter' id='list-day'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll filter' id='list-week'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll filter' id='list-month'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll filter' id='list-year'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                            <div class='scroll search' id='list-search'>
-                                <div class='boxline'></div>
-                                <div class='boxinfo'></div>
-                                <div class='spinner-box spin'><svg class='icn-svg col-version'>
-                                        <use xlink:href='#ic-loader'></use>
-                                    </svg></div>
-                            </div>
-                        </div>
-                        <div class='boxfilter' id='searchbox'>
-                            <div class='tab-filter'>
-                                <div class='bt-mini color' id='bt-name'>
-                                    <div class='txt'>DJ name</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                                <div class='bt-mini color' id='bt-title'>
-                                    <div class='txt'>Mix title</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                                <div class='bt-mini color' id='bt-dedi'>
-                                    <div class='txt'>Dedicated to</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                            </div>
-                            <form action='javascript:clickBtSearch()' method='post' target='_self'>
-                                <div class='formline'><input type='text' id='input-search' name='input-search'
-                                        placeholder='Search for a mix' value='' maxlength='26' autocomplete='off'
-                                        autocorrect='off' spellcheck='false'></div>
-                                <div class='bt search' id='bt-search'>
-                                    <div class='bck'><svg class='icn-svg'>
-                                            <use xlink:href='#ic-search'></use>
-                                        </svg></div>
-                                    <div class='hitzone'></div>
-                                </div><input type='submit' style='visibility:hidden;position:absolute'>
-                            </form>
-                        </div>
-                        <div class='boxfilter' id='top50box'>
-                            <div class='tab-filter'>
-                                <div class='bt-mini color' id='bt-day'>
-                                    <div class='txt'>Day</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                                <div class='bt-mini color' id='bt-week'>
-                                    <div class='txt'>Week</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                                <div class='bt-mini color' id='bt-month'>
-                                    <div class='txt'>Month</div>
-                                    <div class='hitzone'></div>
-                                </div>
-                                <div class='bt-mini color' id='bt-year'>
-                                    <div class='txt'>Year</div>
-                                    <div class='hitzone'></div>
-                                </div>
                             </div>
                         </div>
                         <div class='boxfilter' id='mixlistbox'>
