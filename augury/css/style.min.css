@@ -99,7 +99,7 @@ body.fluid{
     display:block
 }
 body.black{
-    background-color:#000!important
+    background-color:#fff!important
 }
 body.darkback{
     background-color:var(--colBck)!important
